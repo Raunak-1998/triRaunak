@@ -1,1 +1,3 @@
 hi everyone
+welcome to the training
+today we learn about GIT
